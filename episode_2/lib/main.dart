@@ -1,6 +1,6 @@
 import 'package:episode_2/home/home_screen.dart';
 import 'package:episode_2/login/login_screen.dart';
-import 'package:episode_2/splashScreen.dart';
+import 'package:episode_2/splash/splash_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
